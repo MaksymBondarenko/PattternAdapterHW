@@ -1,0 +1,2 @@
+# PattternAdapterHW
+Реализация PattternAdapter
